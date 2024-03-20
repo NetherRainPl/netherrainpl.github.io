@@ -1,0 +1,70 @@
+body {
+  background-color: black
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: orange
+}
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: red
+}
+b {
+  color: orange
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(117, 102, 12);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(245, 144, 12);
+}
+
+.active {
+  background-color: rgb(241, 12, 12);
+}
+
+.green {
+  background-color: rgb(34, 177, 34)
+}
+
+label {
+  color: orange;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pets{
+  color: orange
+}
+
+.navlink {
+  font-size: 22px;
+}
+
+.selected {
+  color: lightblue;
+}
+
+.special {
+  color: yellow;
+}

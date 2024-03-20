@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="1; url='https://dl.dropbox.com/s/mwj6uzttjt63cfb/battlegame-alpha-1.11.zip?dl=0" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Battlegame</title>
+    <link href="\style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Downloading...</h1>
+    <script src="\script.js"></script>
+  </body>
+</html>
