@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="1; url='https://battlegame.netherrain23.repl.co'" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Battlegame By NetherRain23</title>
+    <link href="\style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Welcome To Battlegame</h1>
+    
+    <script src="\script.js"></script>
+  </body>
+</html>

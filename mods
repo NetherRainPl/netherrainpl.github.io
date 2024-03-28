@@ -14,10 +14,10 @@
     <div id="navbar">
     </center>
     <center class="navlink">
-      
+
       <a href="/">Home</a>&nbsp&nbsp
-      <a href="youtube.html" class="selected">YouTube</a>&nbsp&nbsp
-      <a href="mods">Mods</a>&nbsp&nbsp
+      <a href="youtube.html">YouTube</a>&nbsp&nbsp
+      <a href="mods" class="selected">Mods</a>&nbsp&nbsp
       <a href="downloads">Other Downloads</a>&nbsp&nbsp
       <a href="feedback">Suggestions</a>&nbsp&nbsp
       <a href="events">Events</a>&nbsp&nbsp
@@ -26,13 +26,10 @@
     </div>
     <hr></hr>
     <center>
-    <h1>My YouTube Channel</h1>
-    <p><b>Tutorials, Old Minecraft, SMPs, Let's Plays, and Minecraft Fact Videos!</b></p>
-    <p class="special">Sub Count: 272</p>
-    <a href="https://youtube.com/@netherrain23" class="navlink">My Channel</a>
-      <h1>Latest Video</h1>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/G1HYj0OY0x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+    <h1>My Mods</h1>
+    <a href="\betterlegacy\b1.7.3.html">BetterLegacy</a>
     </center>
+    <p></p>
     <script src="script.js"></script>
   </body>
 </html>
