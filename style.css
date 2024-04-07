@@ -1,5 +1,7 @@
 body {
-  background-color: black
+  background-color: black;
+  margin: 0px;
+  padding: 0px;
 }
 p {
   font-family: Arial, Helvetica, sans-serif;
@@ -7,11 +9,18 @@ p {
 }
 h1 {
   font-family: Arial, Helvetica, sans-serif;
-  color: orange
+  color: orange;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: orange;
 }
 a {
   font-family: Arial, Helvetica, sans-serif;
   color: red
+}
+a:hover {
+  color: #ff9494
 }
 b {
   color: orange
@@ -53,7 +62,7 @@ label {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.pets{
+.pets {
   color: orange
 }
 
@@ -97,7 +106,7 @@ label {
   padding: 0 10px;
   display: none;
   overflow: hidden;
-  background-color: black;
+  background-color: #202020;
   
 }
 
@@ -109,18 +118,26 @@ label {
   color: limegreen;
   padding-top: 0px;
   size: 4px;
+  line-height: 11px;
+}
+
+.caution {
+  color: yellow;
+  padding-top: 0px;
+  size: 4px;
+  line-height: 11px;
 }
 
 .downloadlink {
   color: orange;
   font-size: 21px;
-  background-color: #282727;
+  background-color: #404040;
   outline-width: 1px;
   border-width: 0px;
 }
 
 .downloadlink:hover {
-  background-color: #404040;
+  background-color: dimgray;
   color: yellow;
 }
 
@@ -130,4 +147,13 @@ img {
 
 .desc {
   font-size: 20px;
+}
+
+.modnav {
+  background-color: #303030;
+  padding: 5px;
+}
+
+.heading {
+  line-height: 21px;
 }
